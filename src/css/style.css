@@ -1,0 +1,11 @@
+body {
+  color: rgb(54, 53, 53);
+  background-color: #eeeff0;
+}
+
+.container {
+  width: 500px;
+  margin: 20px;
+  background-color: white;
+  padding: 20px;  
+}
